@@ -38,9 +38,6 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "URP.safetensors": "https://civitai.com/api/download/models/15640"
-    },
-	"checkpoint_downloads1": {
         "HcAp.safetensors": "https://civitai.com/api/download/models/170793?type=Model&format=SafeTensor&size=pruned&fp=fp32"
     },
     "embeddings_downloads": {},
